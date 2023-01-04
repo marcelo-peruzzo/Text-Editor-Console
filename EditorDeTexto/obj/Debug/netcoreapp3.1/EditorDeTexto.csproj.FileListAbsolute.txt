@@ -1,0 +1,14 @@
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\bin\Debug\netcoreapp3.1\EditorDeTexto.exe
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\bin\Debug\netcoreapp3.1\EditorDeTexto.deps.json
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\bin\Debug\netcoreapp3.1\EditorDeTexto.runtimeconfig.json
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\bin\Debug\netcoreapp3.1\EditorDeTexto.runtimeconfig.dev.json
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\bin\Debug\netcoreapp3.1\EditorDeTexto.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\bin\Debug\netcoreapp3.1\EditorDeTexto.pdb
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\obj\Debug\netcoreapp3.1\EditorDeTexto.csproj.AssemblyReference.cache
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\obj\Debug\netcoreapp3.1\EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\obj\Debug\netcoreapp3.1\EditorDeTexto.AssemblyInfoInputs.cache
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\obj\Debug\netcoreapp3.1\EditorDeTexto.AssemblyInfo.cs
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\obj\Debug\netcoreapp3.1\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\obj\Debug\netcoreapp3.1\EditorDeTexto.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\obj\Debug\netcoreapp3.1\EditorDeTexto.pdb
+C:\Users\Marcelo Peruzzo\Desktop\Dev\EditorDeTexto\EditorDeTexto\obj\Debug\netcoreapp3.1\EditorDeTexto.genruntimeconfig.cache
